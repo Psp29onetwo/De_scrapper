@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548dacb2-f35f-4879-964f-4df0d431e302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo_plotter_advanced.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Acer Nitro 5 Core i5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Acer Nitro 5 Core i7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Acer Nitro 5 Ryzen 5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Acer Predator Helios.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Acer Predator Triton.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Asus ROG Strix G Cor.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Asus ROG Strix Scar .csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Asus VivoBook Gaming.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dell G3 Series Core .csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HP Omen Core i7 9th .csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HP Pavilion 15-EC Ry.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lenovo Ideapad L340 .csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lenovo Legion Y530 C.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSI Core i7 9th Gen .csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSI G Ryzen 7 Quad C.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +201,7 @@
       <workItem from="1581513065169" duration="7237000" />
       <workItem from="1581530553425" duration="634000" />
       <workItem from="1581567050258" duration="23876000" />
-      <workItem from="1581653011170" duration="3113000" />
+      <workItem from="1581653011170" duration="3681000" />
     </task>
     <task id="LOCAL-00001" summary="time added">
       <created>1581502968497</created>
