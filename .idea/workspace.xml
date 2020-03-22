@@ -1,7 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="548dacb2-f35f-4879-964f-4df0d431e302" name="Default Changelist" comment="" />
+    <list default="true" id="548dacb2-f35f-4879-964f-4df0d431e302" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/cdn-cgi/l/email-protection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/owl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/owl.video.play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-brands-400d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-regular-400d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fonts/fa-solid-900d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/about-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/apple-touch-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/apple-touch-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/apple-touch-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/back-to-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/bg-image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/blogs-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/blue-socials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/blue-textured.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/blue-waves.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/bottom-clouds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/ajio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/amazon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/bgr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/croma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/firstpost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/flipkart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/fossbytes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/jabong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/koovs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/myntra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/news18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/paytmmall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/snapdeal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/vccircle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/brands/yourstory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/clients-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/contacts-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/contacts-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/faqs-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/grey-textured.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-15-wave.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-3-wave.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-6-wave.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-7-incline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-9-wave.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/hero-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/icons/clipboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/icons/coins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/icons/faq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/icons/notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/icons/presentation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/icons/strategy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/image-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/newsletter-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/newsletter-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/pricing-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/reviews-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/store_badges/googleplay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/store_badges/shortcuts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/terms-page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/video-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/highcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/mobile-detect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/pricehistory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/js/sweetalert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/privacy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/terms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/url.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/webpage.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +140,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,19 +154,31 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1XgzpVDtJ4hNJYrows7gSu4rRa2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.notification">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\all about learning\computer science\pycharm\De_scrapper\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\all about learning\computer science\pycharm\De_scrapper\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.webpage">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,9 +227,6 @@
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -139,28 +264,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="deScrapper" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,13 +286,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="webpage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deScrapper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webpage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.webpage" />
         <item itemvalue="Python.notification" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.test_3" />
-        <item itemvalue="Python.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581502968497</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="time added">
+      <created>1584886839532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584886839532</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,17 +357,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="time added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="146" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581482909465">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="146" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584888387768">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="146" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584888387768" />
     <state x="146" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1581482909465" />
     <state x="420" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581499071546">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="420" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1581499071546" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1581502964661">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1584886836263">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584886836263" />
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1581502964661" />
     <state width="1320" height="192" key="GridCell.Tab.0.bottom" timestamp="1581591591996">
       <screen x="0" y="0" width="1366" height="768" />
@@ -272,10 +403,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1320" height="240" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1581530359328" />
-    <state x="221" y="20" width="999" height="708" key="SettingsEditor" timestamp="1584886761264">
+    <state x="221" y="20" width="999" height="708" key="SettingsEditor" timestamp="1584887350874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="221" y="20" width="999" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584886761264" />
+    <state x="221" y="20" width="999" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584887350874" />
     <state x="221" y="35" width="999" height="733" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581653169757" />
     <state x="282" y="122" key="Vcs.Push.Dialog.v2" timestamp="1581502976120">
       <screen x="0" y="0" width="1366" height="768" />

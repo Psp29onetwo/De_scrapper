@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %} Home Page {% endblock %}
+
+{% block content %}
+<div class="decorations" style="margin : 50px;">
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4" style="font-family : Raleway;">Web scrapper</h1>
+    <p class="lead" style="font-family : Lato;">This is a web scrapper by which one can buy products at least price :)</p>
+  </div>
+</div >
+<div class="main_content" style="margin : 100px;">
+<label for="url-textbox" style="font-family : Lato;">Enter the url of the product :&nbsp &nbsp </label><input type="text" name = "url"> &nbsp;&nbsp; &nbsp;
+<button type="button" class="btn btn-primary">Click!</button>
+</div>
+</div>
+
+
+{% endblock%}
