@@ -1,4 +1,4 @@
-import csv
+import csv, random
 import matplotlib.pyplot as plt
 from datetime import datetime
 
@@ -143,4 +143,8 @@ def plotter(product_name):
         plt.plot(listTimeX, listPriceY)
         plt.title(titleOfProduct[0:20] + "'s Price history")
         # plt.xticks(listTimeX, lableListX)
-        plt.show()
+
+        path = "images/"
+        data = path + product_name + ".png"
+        plt.savefig(data)
+        return data

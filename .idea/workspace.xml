@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548dacb2-f35f-4879-964f-4df0d431e302" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/Acer Nitro 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plot51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plot56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plot62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plot91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceHistoryUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/priceHistoryUtils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/your_url.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/your_url.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +61,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -114,9 +123,6 @@
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -154,20 +160,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="priceHistoryUtils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/priceHistoryUtils.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,13 +198,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.first" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.notification" />
+      <item itemvalue="Python.webpage" />
+      <item itemvalue="Python.priceHistoryUtils" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.first" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.priceHistoryUtils" />
         <item itemvalue="Python.webpage" />
         <item itemvalue="Python.notification" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -250,13 +260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585026804939</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="time added">
+      <created>1585061224234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585061224234</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="time added" />
     <option name="LAST_COMMIT_MESSAGE" value="time added" />
   </component>
@@ -265,10 +283,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1585061208126" />
-    <state x="146" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584888387768">
+    <state x="146" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585062765585">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="146" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584888387768" />
+    <state x="146" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585062765585" />
     <state x="146" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1581482909465" />
     <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585026400421">
       <screen x="0" y="0" width="1366" height="728" />
@@ -278,26 +296,30 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="420" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1581499071546" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1585026800023">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1585061220404">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585026800023" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585061220404" />
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1581502964661" />
-    <state width="1320" height="192" key="GridCell.Tab.0.bottom" timestamp="1581591591996">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1367" height="186" key="GridCell.Tab.0.bottom" timestamp="1585062770835">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585062770835" />
     <state width="1320" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581591591996" />
-    <state width="1320" height="192" key="GridCell.Tab.0.center" timestamp="1581591591994">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1367" height="186" key="GridCell.Tab.0.center" timestamp="1585062770834">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585062770834" />
     <state width="1320" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581591591994" />
-    <state width="1320" height="192" key="GridCell.Tab.0.left" timestamp="1581591591994">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1367" height="186" key="GridCell.Tab.0.left" timestamp="1585062770834">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585062770834" />
     <state width="1320" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581591591994" />
-    <state width="1320" height="192" key="GridCell.Tab.0.right" timestamp="1581591591995">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1367" height="186" key="GridCell.Tab.0.right" timestamp="1585062770834">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585062770834" />
     <state width="1320" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581591591995" />
     <state width="1320" height="240" key="GridCell.Tab.1.bottom" timestamp="1581530359329">
       <screen x="0" y="0" width="1366" height="768" />

@@ -1,8 +1,8 @@
 from flask import Flask, render_template, request, url_for, redirect
+import priceHistoryUtils
 
 # from werkzeug.utils import redirect
 # to run the flask projrct in devcelopment mode set FLASK_ENV=development
-
 
 app = Flask(__name__)
 
@@ -15,7 +15,11 @@ def index():
 @app.route("/your_url", methods=["GET", "POST"])
 def your_url():
     if request.method == "POST":
-        return render_template("your_url.html", code=request.form["code"])
+        temp = request.form["code"]
+        graph = priceHistoryUtils.plotter(temp)
+        temp = "/" + str(graph)
+        return render_template("your_url.html", graph = temp)
+
     else:
         return redirect(url_for("index"))
 
