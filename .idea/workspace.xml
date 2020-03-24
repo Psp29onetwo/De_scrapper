@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548dacb2-f35f-4879-964f-4df0d431e302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/data.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/data.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/webpage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <recent name="E:\all about learning\computer science\pycharm\De_scrapper\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.webpage">
+  <component name="RunManager" selected="Python.first">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,6 +83,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deScrapper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,35 +176,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="deScrapper" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="webpage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -203,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.first" />
         <item itemvalue="Python.webpage" />
         <item itemvalue="Python.notification" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.test_3" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584891999512</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="time added">
+      <created>1585026804939</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585026804939</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +261,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="time added" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1585061208126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1585061208126" />
     <state x="146" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584888387768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -273,10 +278,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="420" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1581499071546" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1584891991423">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1585026800023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584891991423" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585026800023" />
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1581502964661" />
     <state width="1320" height="192" key="GridCell.Tab.0.bottom" timestamp="1581591591996">
       <screen x="0" y="0" width="1366" height="768" />
@@ -319,10 +324,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="282" y="122" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1581502976120" />
-    <state x="362" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1585026760248">
+    <state x="362" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1585055550620">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="362" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585026760248" />
+    <state x="362" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585055550620" />
     <state x="362" y="215" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581653014826" />
     <state x="351" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581570971817">
       <screen x="0" y="0" width="1366" height="768" />

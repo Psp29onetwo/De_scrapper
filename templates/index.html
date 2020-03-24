@@ -3,23 +3,26 @@
 {% block title %} Home Page {% endblock %}
 
 {% block content %}
-<div class="decorations" style="margin : 50px;">
-<div class="jumbotron jumbotron-fluid">
-  <div class="container">
-    <h1 class="display-4" style="font-family : Raleway;">Web scrapper</h1>
-    <p class="lead" style="font-family : Lato;">This is a web scrapper by which one can buy products at least price :)</p>
-  </div>
-</div >
-<div class="main_content" style="margin : 100px;">
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flask web page </title>
+</head>
+<body>
+   <h1> URL Shortener </h1>
 
+<form action="your_url" method="post">
+  <label>Website URL</label>
+    <input type="url" name="url" value="" required>
+    <br>
+    <label>Short Name</label>
+    <input type="text" name="code" value="" required>
+    <br>
+    <input type="submit" value="Shorten">
+</form>
 
-  <form action="data.html" method="post">
-<label style="font-family : Lato;">Enter the url of the product :&nbsp &nbsp </label>
-    <input type="text" name = "url"> &nbsp;&nbsp; &nbsp;
-<button type="submit" class="btn btn-primary" value="submit">Click!</button>
-  </form>
-</div>
-</div>
-
+</body>
+</html>
 {% endblock%}
