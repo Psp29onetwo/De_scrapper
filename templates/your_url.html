@@ -8,13 +8,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Your URL</title>
+    <title>Title</title>
 </head>
 <body>
-<h1>Your url is working!!</h1>
-   <p>{{graph}}</p>
-      <img src="/images/Acer Nitro 5.png" alt="Chart">
+    <p>{{graph}}</p>
+<div class="image">
 
+        <img src="{{ url_for('static',filename=graph)}}" alt="chart">
+
+</div>
+<!--    <img src="{{ url_for('static',filename=graph)}}" alt="chart">-->
+<!--<img src="{{ url_for('static',filename=graph)}}" alt="chart">-->
 </body>
 </html>
 

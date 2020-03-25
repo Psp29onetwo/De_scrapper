@@ -2,16 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548dacb2-f35f-4879-964f-4df0d431e302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Acer Nitro 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plot51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plot56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plot62.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plot91.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Acer Nitro 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HP Omen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/MSI 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/MSI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/Acer Nitro 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/HP Omen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/plot51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/plot56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/plot62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/plot91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/temp.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Acer Nitro 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/plot51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/plot56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/plot62.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/plot91.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/priceHistoryUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/priceHistoryUtils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/your_url.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/your_url.html" afterDir="false" />
     </list>
@@ -67,7 +78,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="xml.defaultSchemas" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -123,6 +134,9 @@
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -164,6 +178,9 @@
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -183,6 +200,9 @@
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -301,25 +321,29 @@
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585061220404" />
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1581502964661" />
-    <state width="1367" height="186" key="GridCell.Tab.0.bottom" timestamp="1585062770835">
+    <state x="500" y="128" key="FileChooserDialogImpl" timestamp="1585133797717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585062770835" />
+    <state x="500" y="128" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585133797717" />
+    <state width="1367" height="186" key="GridCell.Tab.0.bottom" timestamp="1585067872684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585067872684" />
     <state width="1320" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581591591996" />
-    <state width="1367" height="186" key="GridCell.Tab.0.center" timestamp="1585062770834">
+    <state width="1367" height="186" key="GridCell.Tab.0.center" timestamp="1585067872684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585062770834" />
+    <state width="1367" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585067872684" />
     <state width="1320" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581591591994" />
-    <state width="1367" height="186" key="GridCell.Tab.0.left" timestamp="1585062770834">
+    <state width="1367" height="186" key="GridCell.Tab.0.left" timestamp="1585067872683">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585062770834" />
+    <state width="1367" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585067872683" />
     <state width="1320" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581591591994" />
-    <state width="1367" height="186" key="GridCell.Tab.0.right" timestamp="1585062770834">
+    <state width="1367" height="186" key="GridCell.Tab.0.right" timestamp="1585067872684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585062770834" />
+    <state width="1367" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585067872684" />
     <state width="1320" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581591591995" />
     <state width="1320" height="240" key="GridCell.Tab.1.bottom" timestamp="1581530359329">
       <screen x="0" y="0" width="1366" height="768" />
@@ -337,19 +361,19 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1320" height="240" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1581530359328" />
-    <state x="221" y="20" width="999" height="708" key="SettingsEditor" timestamp="1584975877868">
+    <state x="221" y="20" width="999" height="708" key="SettingsEditor" timestamp="1585150747027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="221" y="20" width="999" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584975877868" />
+    <state x="221" y="20" width="999" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585150747027" />
     <state x="221" y="35" width="999" height="733" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581653169757" />
     <state x="282" y="122" key="Vcs.Push.Dialog.v2" timestamp="1581502976120">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="282" y="122" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1581502976120" />
-    <state x="362" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1585055550620">
+    <state x="362" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1585144557108">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="362" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585055550620" />
+    <state x="362" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585144557108" />
     <state x="362" y="215" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581653014826" />
     <state x="351" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581570971817">
       <screen x="0" y="0" width="1366" height="768" />

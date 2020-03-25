@@ -17,7 +17,7 @@ def your_url():
     if request.method == "POST":
         temp = request.form["code"]
         graph = priceHistoryUtils.plotter(temp)
-        temp = "/" + str(graph)
+        temp = graph
         return render_template("your_url.html", graph = temp)
 
     else:

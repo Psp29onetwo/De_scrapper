@@ -144,7 +144,9 @@ def plotter(product_name):
         plt.title(titleOfProduct[0:20] + "'s Price history")
         # plt.xticks(listTimeX, lableListX)
 
-        path = "images/"
+        path = "static/"
         data = path + product_name + ".png"
         plt.savefig(data)
-        return data
+        img_path = str(product_name) + ".png"
+        # img_path = "images/" + str(product_name) + ".png"
+        return img_path
