@@ -30,8 +30,8 @@ def returnProductURL(product_name):
 
 
 
-def plotter(product_name):
-    with open(product_name + ".csv") as csv_file:
+def plotter(productname):
+    with open(productname + ".csv") as csv_file:
         # Phase 1 - Retrieving data from csv file -------------------------------------------------------------------------------
         csv_reader = csv.reader(csv_file)
         listOfAttributes = []
@@ -109,16 +109,20 @@ def plotter(product_name):
         for i in range(0, len(listTimeX)):
             dateTimeList.append(convertTimestampToDate(listTimeX[i]))
 
+            # dateTimeList.append(timestamp_to_datetimeobj)
+            # dateTimeList[i].strftime('%m/%d/%y')
+        # print(dateTimeList)
+
         dateTimeList_to_month_year = []
 
-        for i in range(0, len(listTimeX)):
+        for i in range(0 ,len(listTimeX)):
             dateTimeList_to_month_year.append(dateTimeList[i].strftime('%m-%y'))
+
 
         lableListX = []
 
         for i in range(0, len(dateTimeList)):
             lableListX.append(str(dateTimeList[i])[5:10])
-
         # #print(lableListX)
         #
         plt.xlabel("Dates")
@@ -148,10 +152,16 @@ def plotter(product_name):
         # print(lableListXSmall)
         # print(listTimeXSmall)
         # print(listPriceYSmall)
+
+        # The length of both lisTimeX and dateTimeList_to_month_year is same so dont worry by seeing the graph
+        # we have only 62 dates thats why if we plot the graph then we got 3 month i.e. 3 entries on X axis so if we have much data about  timestamps then it can perform better
+        print(len(listTimeX))
+        print(len(dateTimeList_to_month_year))
+
         plt.plot(dateTimeList_to_month_year, listPriceY)
         plt.title(titleOfProduct[0:20] + "'s Price history")
         # plt.xticks(listTimeX, lableListX)
-
+#
         path = "static/"
         data = path + product_name + ".png"
 
@@ -159,3 +169,5 @@ def plotter(product_name):
         img_path = str(product_name) + ".png"
         # img_path = "images/" + str(product_name) + ".png"
         return img_path
+
+# productName = "Acer Nitro 5"
