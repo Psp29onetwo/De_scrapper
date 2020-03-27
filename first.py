@@ -26,3 +26,5 @@ def your_url():
 
 if __name__ == "__main__":
     app.run(debug=True)
+# TODO
+#  Refactor and apply style to whole project and fullfill the requirement as shown in navbar with logo and all that.

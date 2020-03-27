@@ -4,3 +4,8 @@
     width : 45%;
     box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+.form{
+    margin : 80px 0px 60px 0px;
+    text-align : center;
+}

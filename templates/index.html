@@ -9,17 +9,23 @@
 <head>
     <meta charset="UTF-8">
     <title>Flask web page </title>
+        <link rel="stylesheet" href="{{ url_for('static',filename='css/styles.css')}}">
 </head>
 <body>
-   <h1> URL Shortener </h1>
+    <center>
+       <h1 style="margin : 50px 0px 30px 0px; font-family : Raleway;"> Welcome! </h1>
+    </center>
 
 <form action="your_url" method="post">
 
-    <label>Name of the product</label>
-    <input type="text" name="code" value="" required>
-    <br>
-    <input type="submit" value="Shorten">
+    <div style="margin : 80px 0px 60px 0px; text-align : center;">
+    <label>Name of the product : &nbsp;</label>
+    <input type="text" name="code" value="" required> &nbsp;&nbsp;
+        <input type="submit" value="Scrap it!">
+
+    </div>
 </form>
+
 
 </body>
 </html>

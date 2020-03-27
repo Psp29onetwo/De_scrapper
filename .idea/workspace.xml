@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548dacb2-f35f-4879-964f-4df0d431e302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/css/Acer Nitro 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/temp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/lenovo ideapad l340.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification.py" beforeDir="false" afterPath="$PROJECT_DIR$/notification.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceHistoryUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/priceHistoryUtils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/HP Omen.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/HP Omen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Acer Nitro 5.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/Acer Nitro 5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/HP Omen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/MSI 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/MSI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/asus rog strix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lenovo ideapad l340.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/your_url.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/your_url.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,9 +69,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -75,7 +83,7 @@
       <recent name="E:\all about learning\computer science\pycharm\De_scrapper\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.notification">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,9 +110,6 @@
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -124,6 +129,9 @@
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -131,6 +139,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="notification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deScrapper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,6 +192,9 @@
       <module name="deScrapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -180,42 +210,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="webpage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="deScrapper" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webpage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.first" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.webpage" />
       <item itemvalue="Python.priceHistoryUtils" />
       <item itemvalue="Python.temp" />
+      <item itemvalue="Python.notification" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.notification" />
+        <item itemvalue="Python.first" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.temp" />
-        <item itemvalue="Python.first" />
         <item itemvalue="Python.priceHistoryUtils" />
-        <item itemvalue="Python.webpage" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585061224234</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="time added">
+      <created>1585241192152</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585241192152</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +310,14 @@
     </state>
     <state x="146" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585062765585" />
     <state x="146" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1581482909465" />
+    <state x="377" y="68" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1585287166973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="377" y="68" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585287166973" />
+    <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585287219517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="455" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585287219517" />
     <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585026400421">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -348,28 +371,33 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1320" height="240" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1581530359328" />
-    <state x="221" y="20" width="999" height="708" key="SettingsEditor" timestamp="1585231746592">
+    <state x="221" y="20" width="999" height="708" key="SettingsEditor" timestamp="1585287023315">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="221" y="20" width="999" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585231746592" />
+    <state x="221" y="20" width="999" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585287023315" />
     <state x="221" y="35" width="999" height="733" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581653169757" />
     <state x="282" y="122" key="Vcs.Push.Dialog.v2" timestamp="1581502976120">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="282" y="122" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1581502976120" />
-    <state x="362" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1585238780066">
+    <state x="362" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1585286126788">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="362" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585238780066" />
+    <state x="362" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585286126788" />
     <state x="362" y="215" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581653014826" />
-    <state x="351" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581570971817">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="351" y="24" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585286142330">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="351" y="24" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1585286142330" />
     <state x="351" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1581570971817" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584345200272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584345200272" />
+    <state x="275" y="22" key="scopes" timestamp="1585287078072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1585287078072" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1581584694692">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

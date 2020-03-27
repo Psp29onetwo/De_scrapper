@@ -1,0 +1,8 @@
+
+
+Things to do:
+
+>> Fetch the dates list and prices list and convert it to live graph in web style.
+>> Add Email me button and run email python script when button is clicked, check if email is received or not.
+>> See the git repo of hiren which has sms feature and integrate it too in page.
+>> Refactor and apply style to whole project and fullfill the requirement as shown in navbar with logo and all that.

@@ -53,14 +53,14 @@ def send_mail():
     server.ehlo()
     server.starttls()
     server.ehlo()
-    server.login('170390107045@saffrony.ac.in', 'Ahirjsca2')
+    server.login('170390107029@saffrony.ac.in', 'paurav3838')
     subject = "Price of Phillips Trimmer has fallen down below Rs. " + str(dp)
     body = "Hey ! \n  has fallen down below Rs." + str(
         dp) + ".\n So, hurry up & check the amazon link right now : " + url
     msg = f"Subject: {subject} \n\n {body} "
     server.sendmail(
-        '170390107045@saffrony.ac.in',
-        '170390107047@saffrony.ac.in',
+        '170390107029@saffrony.ac.in',
+        'pspofficial2912@gmail.com',
         msg
     )
     print("Email Mokli Ditho")
@@ -71,8 +71,8 @@ def send_mail():
 def push_notification():
     notify = Notify()
     notify.send(pnmsg)
-    print("HEY Hiren, NOTIFICATION Mokli")
-    print("Minute pachi pachi check karse price")
+    print("HEY PSP, NOTIFICATION Mokli")
+    print("Minute pachi check karse price")
 
 
 count = 0
@@ -81,3 +81,5 @@ while True:
     print("Count : " + str(count))
     check_price()
     time.sleep(60)
+# TODO
+#  Add Email me button and run email python script when button is clicked, check if email is received or not.

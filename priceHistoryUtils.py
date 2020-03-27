@@ -121,7 +121,7 @@ def plotter(product_name):
 
         # #print(lableListX)
         #
-        plt.xlabel("Dates")
+        plt.xlabel("Dates (Month - Year)")
         plt.ylabel("Price")
         #
         # listPriceY.pop()
@@ -159,3 +159,5 @@ def plotter(product_name):
         img_path = str(product_name) + ".png"
         # img_path = "images/" + str(product_name) + ".png"
         return img_path
+#TODO
+# >> Fetch the dates list and prices list and convert it to live graph in web style.
