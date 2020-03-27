@@ -1,7 +1,10 @@
-import requests, time, smtplib
+from datetime import datetime
+
+import requests
+import smtplib
+import time
 from bs4 import BeautifulSoup
 from notify_run import Notify
-from datetime import datetime
 
 url = "https://www.amazon.in/Philips-DuraPower-Trimmer-BT3211-15/dp/B07D1HRHLV/ref=sr_1_7?crid=3O48QEAI3UZY0&keywords" \
       "=philips+trimmer+for+mens&qid=1581571268&sprefix=philips+trim%2Caps%2C-1&sr=8-7 "
@@ -12,6 +15,8 @@ headers = {
     "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36'}
 
 title1 = ""
+
+
 def check_price():
     page = requests.get(URL, headers=headers)
     soup = BeautifulSoup(page.content, 'html.parser')

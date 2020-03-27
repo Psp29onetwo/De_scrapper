@@ -1,7 +1,7 @@
 import csv
 import matplotlib.pyplot as plt
 
-with open("result.csv") as csv_file:
+with open("HP Omen.csv") as csv_file:
     # Phase 1 - Retrieving data from csv file -------------------------------------------------------------------------------
     csv_reader = csv.reader(csv_file)
     listOfAttributes = []
